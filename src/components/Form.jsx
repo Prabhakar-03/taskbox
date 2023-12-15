@@ -79,7 +79,7 @@ const Form = () => {
         onChange={handleChange}
       />
 
-      <button type="submit">Submit</button>
+    <button onClick={handleSubmit}>Next Page</button>
     </form>
  );
 };

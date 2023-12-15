@@ -24,7 +24,7 @@ body {
     font-size: 16px;
    }
    
-   .form-container button[type="submit"] {
+   .form-container button {
     width: 100%;
     padding: 12px 20px;
     margin: 8px 0;
@@ -37,7 +37,7 @@ body {
     transition: background-color 0.3s ease;
    }
    
-   .form-container button[type="submit"]:hover {
+   .form-container button:hover {
     background-color: #45a049;
    }
    
